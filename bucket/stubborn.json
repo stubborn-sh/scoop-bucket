@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0-SNAPSHOT",
+  "description": "CLI for the Stubborn contract governance platform",
+  "homepage": "https://stubborn.sh",
+  "license": "Stubborn Commercial License",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/stubborn-sh/stubborn-pro/releases/download/v0.1.0-SNAPSHOT/stubborn-0.1.0-SNAPSHOT-windows-x86_64.zip",
+      "hash": "PLACEHOLDER"
+    }
+  },
+  "bin": "stubborn.exe",
+  "checkver": {
+    "github": "https://github.com/stubborn-sh/stubborn-pro"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/stubborn-sh/stubborn-pro/releases/download/v$version/stubborn-$version-windows-x86_64.zip"
+      }
+    }
+  }
+}
