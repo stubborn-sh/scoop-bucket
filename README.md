@@ -1,16 +1,17 @@
-# Stubborn Scoop Bucket
+# Scoop Manifests
 
-Scoop manifests for [Stubborn](https://stubborn.sh) CLI.
+## How do I install these tools?
 
-## Install
+1. Install [scoop](https://github.com/ScoopInstaller/Install).
 
-```powershell
-scoop bucket add stubborn https://github.com/stubborn-sh/scoop-bucket
-scoop install stubborn
+2. Add this bucket to scoop:
+
+```
+scoop bucket add stubborn-sh https://github.com/stubborn-sh/scoop-bucket.git
 ```
 
-## Update
+3. Install tools via `scoop install`:
 
-```powershell
-scoop update stubborn
+```
+scoop install <toolName>
 ```

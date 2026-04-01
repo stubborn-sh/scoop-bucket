@@ -1,0 +1,50 @@
+Stubborn Commercial License
+
+Copyright (c) 2026-present Marcin Grzejszczak. All rights reserved.
+
+This software and associated documentation files, including compiled native
+executables, GraalVM native images, Docker container images, and all distributed
+binary artifacts (collectively, the "Software") are the proprietary property of
+the copyright holder. Use of the Software requires a valid Stubborn Pro license
+(Team or Enterprise edition).
+
+PERMITTED:
+- Use the Software in accordance with your purchased license tier
+- Deploy the Software within your organization's infrastructure
+- Create backups of the Software for disaster recovery
+
+PROHIBITED:
+- Redistribute, sublicense, sell, or transfer the Software to third parties
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive
+  the source code of the Software
+- Remove or alter license enforcement mechanisms
+- Circumvent or disable license validation
+- Use the Software beyond the scope of your purchased license
+- Share license keys with unauthorized parties
+
+DISCLAIMER OF WARRANTIES:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE COPYRIGHT HOLDER
+DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+LIMITATION OF LIABILITY:
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING BUT NOT
+LIMITED TO LOSS OF PROFITS, DATA, BUSINESS INTERRUPTION, OR PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+OTHERWISE), ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES.
+
+THE COPYRIGHT HOLDER'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED THE AMOUNTS
+PAID BY LICENSEE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+GOVERNING LAW:
+This License shall be governed by and construed in accordance with the laws of
+Poland, without regard to its conflict of laws provisions. Any disputes arising
+under this License shall be subject to the exclusive jurisdiction of the courts
+of Warsaw, Poland.
+
+For licensing options, visit: https://stubborn.sh/pricing
+For license inquiries, contact: hello@stubborn.sh
