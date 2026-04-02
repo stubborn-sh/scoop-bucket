@@ -1,10 +1,10 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Stubborn CLI - Contract broker management tool",
     "homepage": "https://stubborn.sh",
     "license": "Commercial",
-    "url": "https://github.com/stubborn-sh/stubborn-pro/releases/download/v0.0.1/stubborn-0.0.1-windows-x86_64.zip",
-    "hash": "sha256:d4b64407d61cbae93ba1e9928aa8ab321a623612105e7ddf5ea2b0d25efcc4d6",
+    "url": "https://github.com/stubborn-sh/stubborn-pro/releases/download/v0.0.3/stubborn-0.0.3-windows-x86_64.zip",
+    "hash": "sha256:c48eccb727535c296c6b69ed7c653a9f24db5c07fc5bfe221e6eb66de443771e",
     "extract_dir": "stubborn.exe",
     "env_add_path": "bin",
     "checkver": {
